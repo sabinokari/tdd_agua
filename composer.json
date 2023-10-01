@@ -1,0 +1,14 @@
+{
+    "name": "proveedor/componente_agua",
+    "description": "proyecto para saber estado del agua",
+    "authors": [
+        {
+            "name": "Estado del agua",
+            "email": "estadoagua@utea.edu.pe",
+            "role": "tester"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.3"
+    }
+}
